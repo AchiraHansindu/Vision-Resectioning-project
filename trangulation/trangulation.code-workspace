@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "trangulation",
+			"path": "."
+		},
+		{
+			"name": "interlaken_00_c_events_right",
+			"path": "../interlaken_00_c_events_right"
+		},
+		{
+			"name": "interlaken_00_c_events_left",
+			"path": "../interlaken_00_c_events_left"
+		}
+	],
+	"settings": {}
+}
