@@ -47,7 +47,7 @@ matrix_2D = [
 
 epsilon = 0.95; % relative termination tolerance.
 delta = 15; % upperbound on the error;
-maxiter=100;
+maxiter=1000;
 
 addpath 'Resectioning'
 
